@@ -46,4 +46,9 @@ All datasets are publicly accessible and used strictly for academic research pur
 Python 3.9+
 
 Install dependencies using:
+## Installation
+
+Create a virtual environment and install dependencies:
+
+pip install -r requirements.txt
 
