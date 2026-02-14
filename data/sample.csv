@@ -1,0 +1,4 @@
+text,image_path,meta1,meta2,label
+Sample rumor text,data/sample_image.jpg,0.5,0.3,1
+Another example,data/sample_image.jpg,0.2,0.8,0
+image = Image.open(row["image_path"])
